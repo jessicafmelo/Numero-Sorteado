@@ -18,7 +18,7 @@ Projeto criado para simular um sorteador de números, fazendo o usuario digitar 
 
 ## 📁 Acesso ao projeto
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+Você pode acessar o projeto [clicando aqui](https://numero-sorteado-puce.vercel.app/) :collision:
 
 ---
 
